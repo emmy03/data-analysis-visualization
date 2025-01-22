@@ -22,7 +22,7 @@ surveys_df['weight'].describe()
 # Calculer des statistiques descriptives par colonne
 print("Valeurs non nulles : ", surveys_df['weight'].count())
 print("Moyenne des valeurs : ", surveys_df['weight'].mean())
-print("Deviation standard : ", surveys_df['weight'].std())
+print("Ecart-type : ", surveys_df['weight'].std())
 print("Valeur minimale : ", surveys_df['weight'].min())
 print("Valeur maximale : ", surveys_df['weight'].max())
 
