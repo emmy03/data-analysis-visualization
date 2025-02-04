@@ -35,6 +35,6 @@ medianes = par_mois['weight'].median()
 # Tracer le graphique
 medianes.plot(kind='line')
 plt.xlabel('Mois')
-plt.ylabel('Poids médian')
+plt.ylabel('Poids')
 plt.title('Poids médian par mois')
 plt.show()
