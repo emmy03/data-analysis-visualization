@@ -1,4 +1,4 @@
-# Charger le module pandas
+# Importer la bibliothèque "pandas"
 import pandas as pd
 
 # Charger les données

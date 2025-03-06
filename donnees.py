@@ -4,7 +4,7 @@ import pandas as pd
 #Importer la bibliothèque "matplotlib"
 import matplotlib.pyplot as plt
 
-# Chargement des données du fichier "data/surveys.csv"
+# Charger les données du fichier "data/surveys.csv"
 surveys_df = pd.read_csv("data/surveys.csv")
 
 # Afficher les quelques premières enregisrements
